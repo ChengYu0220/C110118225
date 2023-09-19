@@ -73,4 +73,4 @@ alerts(s)
 | *Still*   | `renders` | **nicely**    |
 |1   | 2      | 3     |
 ----
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Everything Is AWESOME")
+[![Everything Is AWESOME](http://img.youtube.com/vi/q6EoRBvdVPQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Everything Is AWESOME")
