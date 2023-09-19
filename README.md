@@ -7,4 +7,4 @@
 ###### C110118225 楊程宇
 
 # 🐺
-![NKUST](logo.jpg "高科大")
+![NKUST](logo.png "高科大")
