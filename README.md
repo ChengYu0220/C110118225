@@ -60,7 +60,7 @@ print(s)
 var s = "Javascript highlights":
 alerts(s)
 ```
-
+----
 | Tables | Are | Cool |
 | :--------- |:-------------:| ---------:|
 | col 3 is   | right-aligned | $1600     |
@@ -72,4 +72,5 @@ alerts(s)
 | :--------- |:---------| :-------|
 | *Still*   | `renders` | **nicely**    |
 |1   | 2      | 3     |
-
+----
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Everything Is AWESOME")
