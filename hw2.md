@@ -21,6 +21,6 @@ gantt
     使用者測試     :a11,after a9 & after a10  , 25d
 ```
 ## PERT/CPM圖
-
+![PERT](PERTCPM.png "PERT")
 
 ## 關鍵路徑
